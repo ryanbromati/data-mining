@@ -69,4 +69,3 @@ Removi colunas desnecessárias e criei conjuntos específicos para cada Questão
 - **QA4**: Informações de jogadores com potencial competitivo
 
 Estas etapas de preparação fornecem dados adequados para modelagem e análise aprofundada de cada uma das questões analíticas definidas, possibilitando a extração de insights valiosos para melhorar a experiência e retenção de jogadores no CS.
-
