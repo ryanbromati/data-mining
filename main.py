@@ -277,5 +277,6 @@ qa4_features = ['potencial_competitivo', 'kd_ratio', 'headshot_percentage', 'tax
                 'tempo_medio_diario_min', 'comunicacao_por_voz'] + \
                [col for col in df_limpo.columns if col.startswith('arma_')]
 qa4_data = qa4_data[qa4_features]
-print("\nQA4 - Dados para identificação de jogadores com potencial competitivo:")
+print("\nQA4 - Dados p"
+"ara identificação de jogadores com potencial competitivo:")
 print(qa4_data.head())
