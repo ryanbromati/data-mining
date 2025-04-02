@@ -1,4 +1,4 @@
-# Questões Analíticas (QA) usando o método SMART para CS
+# Questões Analíticas usando o método SMART para CS
 
 ## Problema: Otimização da experiência de jogo e retenção de jogadores no CS
 
